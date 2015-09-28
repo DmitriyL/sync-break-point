@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+*.log
+*.log.*
+test-output
+test-output-maven
