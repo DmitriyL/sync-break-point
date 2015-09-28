@@ -1,2 +1,2 @@
 # sync-break-point
-Sync code on enumerated points
+Sync code execution on enumerated points
