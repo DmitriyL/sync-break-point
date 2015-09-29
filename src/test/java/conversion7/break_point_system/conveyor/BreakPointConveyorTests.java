@@ -71,6 +71,7 @@ public class BreakPointConveyorTests {
 
         for (int i = 0; i < 3; i++) {
             System.out.print((3 - i) + "   ");
+            Utils.sleepThread(500);
         }
         System.out.println();
 
